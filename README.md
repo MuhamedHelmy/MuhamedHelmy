@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamedhelmy&label=Profile%20views&color=0e75b6&style=flat" alt="muhamedhelmy" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamedhelmy&layout=compact&theme=algolia" alt="muhamedhelmy" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamedhelmy&layout=compact&theme=matrix" alt="muhamedhelmy" /></a> </p>
+
 
 - 💬 Mobile develope **Using Native**
 
