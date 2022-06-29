@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamedhelmy&layout=compact&theme=algolia" alt="muhamedhelmy" /></a> </p>
 
 
-- 💬 Mobile develope **Using Native**
+- 💬 Mobile developer **Using Native**
 
 - 🌱 I’m currently learning **Unity / Unreal**
 
